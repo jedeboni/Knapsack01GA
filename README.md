@@ -13,14 +13,14 @@ Este programa foi escrito no MS-Visual Studio na linguagem c#. Permite a leitura
 [![Build status](https://ci.appveyor.com/api/projects/status/eanb0rmid5tbgoio?svg=true)](https://ci.appveyor.com/project/jedeboni/knapsackga)
 
 ### Componentes principais do programa fonte (versão KnapsackGA)
-   - [Form1.Designer](KnapsackGA/KnapsackGA/Form1.Designer.cs) - componentes da interface gráfica (GUI) do programa. 
-   - [Form1](KnapsackGA/KnapsackGA/Form1.cs) - Código do programa principal, controla o algoritmo genético.
-   - [Individuo](KnapsackGA/KnapsackGA/Individuo.cs) - Descreve a sacola e as operações básicas de criação e avaliação.
-   - [Item](KnapsackGA/KnapsackGA/Item.cs) - Descreve um item da mochila.
-   - [DemoRoseta](KnapsackGA/dados/DemoRoseta.csv) - dados para testar o software, de uma demo no [rosettacode](http://rosettacode.org/wiki/Knapsack_problem/0-1)
+   - [Form1.Designer](https://github.com/jedeboni/Knapsack01GA/blob/master/KnapsackGA/KnapsackGA/Form1.Designer.cs) - componentes da interface gráfica (GUI) do programa. 
+   - [Form1](https://github.com/jedeboni/Knapsack01GA/blob/master/KnapsackGA/KnapsackGA/Form1.cs) - Código do programa principal, controla o algoritmo genético.
+   - [Individuo](https://github.com/jedeboni/Knapsack01GA/blob/master/KnapsackGA/KnapsackGA/Individuo.cs) - Descreve a sacola e as operações básicas de criação e avaliação.
+   - [Item](https://github.com/jedeboni/Knapsack01GA/blob/master/KnapsackGA/KnapsackGA/Item.cs) - Descreve um item da mochila.
+   - [DemoRoseta](https://github.com/jedeboni/Knapsack01GA/blob/master/dados/DemoRoseta.csv) - dados para testar o software, de uma demo no [rosettacode](http://rosettacode.org/wiki/Knapsack_problem/0-1)
    
 ### Exemplo da Interface
-   ![](KnapsackGA/imagem/knapsackGA.JPG)
+   ![](https://github.com/jedeboni/Knapsack01GA/blob/master/imagem/knapsackGA.JPG)
 
 ### Uso do Programa
 - File > Read List - Permite ler uma lista (CSV) dos itens disponíveis para compor a sacola
