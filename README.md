@@ -9,9 +9,6 @@ Este programa foi escrito no MS-Visual Studio na linguagem c#. Permite a leitura
 - KnapsackGA - considera o peso e o valor dos itens na sacola
 - KnapsackGAVol - considera o peso, o valor e o volume da sacola.
 
-- Project status badge
-[![Build status](https://ci.appveyor.com/api/projects/status/eanb0rmid5tbgoio?svg=true)](https://ci.appveyor.com/project/jedeboni/knapsackga)
-
 ### Componentes principais do programa fonte (versão KnapsackGA)
    - [Form1.Designer](https://github.com/jedeboni/Knapsack01GA/blob/master/KnapsackGA/KnapsackGA/Form1.Designer.cs) - componentes da interface gráfica (GUI) do programa. 
    - [Form1](https://github.com/jedeboni/Knapsack01GA/blob/master/KnapsackGA/KnapsackGA/Form1.cs) - Código do programa principal, controla o algoritmo genético.
